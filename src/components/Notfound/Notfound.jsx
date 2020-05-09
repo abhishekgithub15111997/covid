@@ -1,9 +1,10 @@
 import React from 'react';
+import Home from '../../Home';
 class Notfound extends React.Component {
   render() {
     return (
         <div>
-        <h1>Page Not Found</h1>
+        <Home/>
         </div>
     )
   }
