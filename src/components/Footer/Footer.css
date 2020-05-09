@@ -1,0 +1,22 @@
+.car{
+  width: 100%;
+  max-width: auto;
+  height: 800px;
+}
+.name{
+  color: chocolate;
+}
+.footer-copyright{
+  color: white;
+}
+.f-icon a{
+  color: white;
+}
+.f-icon i{
+  padding-left: 50px;
+  font-size: x-large;
+  
+}
+.foo{
+  margin-top: 10px;
+}
